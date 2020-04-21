@@ -1,0 +1,3 @@
+rootProject.name='pinnerrecyclerview'
+include ':app'
+include ':pinnedlib'
